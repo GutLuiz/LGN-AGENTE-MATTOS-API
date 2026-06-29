@@ -1,0 +1,6 @@
+@LGN_AGENTE_HostAddress = http://localhost:5159
+
+GET {{LGN_AGENTE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
